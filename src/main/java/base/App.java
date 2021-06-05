@@ -38,6 +38,5 @@ public class App {
         int inputLenghth = inputString.length();
         System.out.println(inputString + " has " + inputLenghth + " characters.");
 
-
     }
 }
